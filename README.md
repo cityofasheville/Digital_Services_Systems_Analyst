@@ -31,13 +31,13 @@ The intention is not to have you spend a prohibitive amount of time on this subm
 2. FirstPlanReview_SLA_Achievement.csv - view export - simplified view of Service Level Achievement data for first plan reviews.
 3. Accela_data_dictionary.csv - table export - data dictionary for the Accela tables.
 4. Accela table exports (referenced in 'Accela Reporting Basics - SQL Server.pdf')
-  * B1PERMIT.csv
-  * B3ADDRES.csv (inside B3ADDRES.zip)
-  * B3PARCEL.csv (inside B3PARCEL.zip)
-  * BPERMIT_DETAIL.csv
-  * BWORKDES.csv
-  * F4FEEITEM.csv
-  * F4PAYMENT.csv
+    * B1PERMIT.csv
+    * B3ADDRES.csv (inside B3ADDRES.zip)
+    * B3PARCEL.csv (inside B3PARCEL.zip)
+    * BPERMIT_DETAIL.csv
+    * BWORKDES.csv
+    * F4FEEITEM.csv
+    * F4PAYMENT.csv
 
 ## Rules
 
