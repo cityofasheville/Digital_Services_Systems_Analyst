@@ -48,11 +48,11 @@ The intention is not to have you spend a prohibitive amount of time on this subm
   * You may email us with any questions. tpace@ashevillenc.gov or, preferably, use this repo’s issues.
 
 ## Deliverables
-A web site accessible somewhere on the web showing your analysis/insights/visualizations 
-Write up which includes the following:
-  * Link to your code or a pull request if you fork this repo
-  * Detach and send us the database (e.g. Google Drive, host on your site, etc.).
-  * Description of your approach to this problem. Briefly explain your approach and why you decided on that approach.
-  * Additional Materials: SQL Queries, design files
+1. A web site accessible somewhere on the web showing your analysis/insights/visualizations 
+2. Write up which includes the following:
+    * Link to your code or a pull request if you fork this repo
+    * Detach and send us the database (e.g. Google Drive, host on your site, etc.).
+    * Description of your approach to this problem. Briefly explain your approach and why you decided on that approach.
+    * Additional Materials: SQL Queries, design files
 
 Have fun!
